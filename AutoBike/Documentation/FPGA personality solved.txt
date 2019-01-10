@@ -1,0 +1,29 @@
+För FPGA/RT I/O.
+
+https://forums.ni.com/t5/Academic-Hardware-Products-myDAQ/modification-of-FPGA-personailty/td-p/3666161
+
+C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\myRIO\Common\Instrument Driver Framework\roboRIO v1.0
+
+C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\myRIO\Common\Instrument Driver Framework\roboRIO v1.0
+
+Lägg till filer på roboRIO
+
+
+Högerklicka startmenyn -> file explorer -> This PC
+
+I den övre menyn, tryck på Computer -> Map Network Drive
+
+Ange en bokstav
+sen på folder så skriv in: http://ni-roborio-030cbd6b.local/files/
+Bocka i "Connect using different credentials"
+Användare: admin
+Lösenord: password
+Finish. Du är nu inne på roboRIOs hårddisk. våra fuzzy filer ligger i home/userlv/, så se till att öppna den filen och 
+spar över den filen hela tiden.
+
+
+
+C:\Program Files (x86)\National Instruments\LabVIEW 2016\examples\roboRIO\CustomizedFPGA
+C:\Program Files (x86)\National Instruments\LabVIEW 2016\examples\roboRIO\Customized FPGA
+
+C:\Program Files (x86)\National Instruments\LabVIEW 2016\examples\roboRIO\Customized FPGA
