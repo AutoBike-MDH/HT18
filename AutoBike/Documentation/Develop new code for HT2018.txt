@@ -1,5 +1,0 @@
-När ni skriver ny kod och tar med den i projektet, se till att FÖRST döpa om projektet till version 2, 3 osv. Sen ansvarar
-Niklas för att lägga ihop allting i version 1 också.
-
-Se också till att köra på snygga subVIs, kommentera koden och skriv en beskrvining om vad er subVI gör. Se också till att
-lägga er subVI i rätt mapp i både projeketfönstret och i utforskaren. 
